@@ -1,0 +1,45 @@
+#1st part by me, 2nd part by John Huggin
+#Enter please all the info after the primary branch code is 50% translated 
+#Uncommenting:
+#               do as if and elif, no more than 3 prompts per user
+#Do it as follows:
+#(AFTER ALL REST OF THE CODE IN THE THIRD SECTION, SECOND BRANCH)
+# (pick the read.me afterwards as a guide)
+
+{try:
+      while False}
+              # here you'll put the timeout in seconds
+      time.sleep ( 3 )
+{if <blankspace decetion True>
+        run Autocorrect fontspacing -script}
+
+{elif  <formatting error detection True>
+        run Autocorrect-spacing -script}
+
+{
+
+                    restart script
+                            watchdog.py
+{#     1st part by me, 2nd part by John Huggins
+#     Enter please all the info after the primary branch code is 50% translated 
+#      Uncommenting:
+#                      do as if and elif, no more than 3 prompts per user
+# Do it as follows:
+# (AFTER ALL REST OF THE CODE IN THE THIRD SECTION, SECOND BRANCH)
+
+
+try:
+      while False
+              # here you'll put the timeout in seconds
+      time.sleep
+if <blankspace decetion True>
+        run Autocorrect fontspacing -script
+
+elif  <formatting error detection True>
+        run Autocorrect-spacing -script
+
+                    restart script
+                            watchdog.p 
+							
+							
+														}
